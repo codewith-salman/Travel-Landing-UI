@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- PROJECT TITLE -->
-# 🌍 Travel Landing UI
+# 🌍 Travel Landing UI 🌍
 
 </div>
 
